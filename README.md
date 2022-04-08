@@ -1,8 +1,6 @@
 # Staticbox
 
 [![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/nickolashkraus/staticbox?color=blue)](https://cloud.docker.com/u/nickolashkraus/repository/docker/nickolashkraus/staticbox)
-[![MicroBadger Layers](https://images.microbadger.com/badges/image/nickolashkraus/staticbox.svg)](https://microbadger.com/images/nickolashkraus/staticbox)
-[![MicroBadger Version](https://images.microbadger.com/badges/version/nickolashkraus/staticbox.svg)](https://microbadger.com/images/nickolashkraus/staticbox)
 [![Releases](https://img.shields.io/github/v/release/NickolasHKraus/staticbox?color=blue)](https://github.com/NickolasHKraus/staticbox/releases)
 [![MIT License](https://img.shields.io/github/license/NickolasHKraus/staticbox?color=blue)](https://github.com/NickolasHKraus/staticbox/blob/master/LICENSE)
 
