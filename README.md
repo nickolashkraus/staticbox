@@ -1,8 +1,8 @@
 # Staticbox
 
 [![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/nickolashkraus/staticbox?color=blue)](https://cloud.docker.com/u/nickolashkraus/repository/docker/nickolashkraus/staticbox)
-[![Releases](https://img.shields.io/github/v/release/NickolasHKraus/staticbox?color=blue)](https://github.com/NickolasHKraus/staticbox/releases)
-[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/NickolasHKraus/staticbox/blob/master/LICENSE)
+[![Releases](https://img.shields.io/github/v/release/nickolashkraus/staticbox?color=blue)](https://github.com/nickolashkraus/staticbox/releases)
+[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/nickolashkraus/staticbox/blob/master/LICENSE)
 
 [Docker Hub](https://cloud.docker.com/u/nickolashkraus/repository/docker/nickolashkraus/staticbox)
 
